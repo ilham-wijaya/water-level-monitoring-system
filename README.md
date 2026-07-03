@@ -44,6 +44,8 @@ to monitor river water level in real time and predict future water levels.
 - NumPy
 - XGBoost
 - Scikit-learn
+- JavaScript
+- SQL
 
 ---
 
