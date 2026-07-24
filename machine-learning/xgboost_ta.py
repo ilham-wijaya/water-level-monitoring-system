@@ -12,7 +12,7 @@ Original file is located at
 import os
 
 # GANTI bagian ini dengan token CDS kamu
-CDS_TOKEN = "90821c76-cf17-4ae8-aa47-64048d50256c"
+CDS_TOKEN = "***********"
 
 cdsapirc = f"""
 url: https://cds.climate.copernicus.eu/api
